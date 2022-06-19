@@ -1,0 +1,13 @@
+.heading {
+    font-size:23px;
+}
+.fix1 {
+    position: fixed;
+    right: 0;
+    bottom: 30px;
+}
+.fix {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
